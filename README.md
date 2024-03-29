@@ -3,6 +3,8 @@
 This project is a Node.js application that provides authentication functionality, including sign up, sign in, sign out, password reset, and Google login/signup.
 
 
+## Live Site
+Visit the live site [here](https://node-authentication-gpu4.onrender.com/user/signout)
 
 ## Features
 - **Sign up with Email**: Users can create an account by providing their email and password.
